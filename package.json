@@ -10,6 +10,11 @@
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.57.0",
+    "@types/luxon": "^3.7.1",
     "@types/node": "^25.0.9"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.2.0",
+    "luxon": "^3.7.2"
   }
 }
